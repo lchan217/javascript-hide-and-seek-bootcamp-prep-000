@@ -19,7 +19,6 @@ function deepestChild() {
   for (var i=0; lis.length>i; i++) {
  // loopBody
  var last = lis[i]
-
   }
   return last
 }
